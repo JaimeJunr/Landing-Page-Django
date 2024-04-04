@@ -24,6 +24,7 @@
     width: 64px;
     height: 64px;
     padding-right: 26px;
+
   }
 
   &__btn{
@@ -34,5 +35,15 @@
     color: white;
     font-size: 20px;
     margin-right: 32px;
+    cursor: pointer ;
+    transition: transform 1s .1s;
+
+    &:hover{
+      background-color: lighten($color:  #E50914, $amount: 10);
+      transform: scale(1.05, 1.05);
+
+    }
+
+
   }
 }
