@@ -1,0 +1,19 @@
+.hero {
+  background-color: #F0E4DB;
+  &__background{
+    width: 100%;
+    border-bottom: 2px solid rgb(0, 0, 0, 0.5);
+  }
+
+  &__content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 27%;
+    padding-left: auto;
+
+    &__logo{
+      width: 20vw;
+    }
+  }
+}
