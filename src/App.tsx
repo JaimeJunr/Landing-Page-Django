@@ -1,5 +1,5 @@
 import Hero from './containers/Hero/Index';
-import Show from './containers/Show/index.tsx';
+import Show from './containers/Show/index';
 
 function App() {
   return (
