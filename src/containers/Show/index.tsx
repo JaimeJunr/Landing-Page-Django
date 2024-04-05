@@ -14,12 +14,16 @@ const Show = () => {
           quando tiver capturado os irmãos Brittle, vivos ou mortos.
         </TitleSmall>
         <PlataformButton
-          src={'/src/assets/Netflix-Icon.png'}
+          src={
+            'https://raw.githubusercontent.com/JaimeJunr/imggg/main/Netflix-Icon.png'
+          }
           alt="
           Netflix Icon"
         />
         <PlataformButton
-          src={'/src/assets/Amazon-Prime-Video-Icon.png'}
+          src={
+            'https://raw.githubusercontent.com/JaimeJunr/imggg/main/Amazon-Prime-Video-Icon.png?token=GHSAT0AAAAAACOYW6Y3Q4M74O4JVKFAOSPCZQPISJA'
+          }
           alt="
           Prime Video Icon"
         />
